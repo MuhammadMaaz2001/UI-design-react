@@ -24,7 +24,7 @@ export default function Footer() {
           {/* Logo and Contact */}
           <div>
             <div className="flex items-center gap-2 mb-6">
-              <img src="/assets/Logo-Final 2.png" alt="Appicoders Logo" className="h-20 w-20" />
+              <img src="/assets/Logo-Final 2.svg" alt="Appicoders Logo" className="h-24 w-24" />
               
             </div>
             <div className="space-y-2 text-white/70 text-sm">

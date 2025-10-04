@@ -45,7 +45,7 @@ export default function Header() {
         {/* Logo */}
         <div className="flex items-center">
           <div className="text-white font-bold text-2xl">
-            <img src="/assets/Logo-Final 2.png" alt="Appicoders Logo" className="h-20 w-20" />
+            <img src="/assets/logo.svg" alt="Appicoders Logo" className="h-20 w-20" />
           </div>
         </div>
 

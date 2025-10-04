@@ -108,7 +108,7 @@ export default function Services() {
           {/* Right: 3D Illustration */}
           <div className="relative">
             <img
-              src="/assets/group-bg.png"
+              src="/assets/vector-services.svg"
               alt="App Development Illustration"
               className="w-full h-auto drop-shadow-2xl"
             />
